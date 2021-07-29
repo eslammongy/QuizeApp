@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "934296567801",
+    "project_id": "quize-app-1da5c",
+    "storage_bucket": "quize-app-1da5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934296567801:android:ba482393e243599d0f8728",
+        "android_client_info": {
+          "package_name": "com.eslammongy.quizeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934296567801-2485vjoodb1o5ea13394e9usqh6u2vpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOTNTPSSyptTdmZw5fCQpb7G4eXrRiZFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934296567801-2485vjoodb1o5ea13394e9usqh6u2vpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
